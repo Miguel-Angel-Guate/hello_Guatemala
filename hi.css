@@ -1,0 +1,24 @@
+body {
+       background-image: url(/img/font.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+
+       
+}
+.logo{
+       height: 95px;
+position: relative; 
+text-align: left;
+display: flex;
+
+
+
+}
+h1 {
+       text-align: center;
+
+
+}
+header {
+       justify-content: space-between;
+}
